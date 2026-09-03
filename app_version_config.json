@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.0+7",
+  "min_supported_version": "1.0.0",
+  "update_message": "새 버전이 올라왔어요. 업데이트해 주세요!",
+  "update_message_en": "A new build is out. Please update!",
+  "android_store_url": "market://details?id=com.nekarose.dumbojump"
+}
