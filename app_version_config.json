@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.1+18",
+  "latest_version": "1.2.0+19",
   "min_supported_version": "1.0.0",
-  "update_message": "새 모드 '끝없는 상승' 이 생기고, 바다토끼가 들어왔어요.",
-  "update_message_en": "New mode: Endless Ascent. And Sea Bunny joins Dumbo.",
+  "update_message": "먹이가 진주가 되고, 상점과 순위표가 생겼어요. 끝없는 상승은 이제 10판부터.",
+  "update_message_en": "Food turns into pearls — spend them in the new shop. Leaderboards are in, and Endless Ascent now opens after Stage 10.",
   "ios_store_url": "https://apps.apple.com/app/id6812717941",
   "android_store_url": "market://details?id=com.nekarose.dumbojump"
 }
