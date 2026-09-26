@@ -3,7 +3,7 @@
   "min_supported_version": "1.0.0",
   "update_message": "10판 뒤에 보스가 기다려요! 1:1 대전과 새 캐릭터 블롭피시도 들어왔어요.",
   "update_message_en": "A boss awaits after Stage 10! Plus 1:1 Versus and a new character, the Blobfish.",
-  "versus_search_seconds": 5,
+  "versus_search_seconds": 8,
   "ios_store_url": "https://apps.apple.com/app/id6812717941",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.nekarose.dumbojump"
 }
