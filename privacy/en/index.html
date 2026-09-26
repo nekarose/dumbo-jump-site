@@ -10,24 +10,88 @@
 <nav class="home"><a href="../../">← Dumbo Jump</a></nav>
 <main>
   <h1>Dumbo Jump Privacy Policy</h1>
-  <p class="lede">Effective 31 August 2026 (revised)</p>
+  <p class="lede">Effective September 27, 2026 (revised)</p>
   <p class="lang"><a href="../">한국어</a></p>
 
-  <p><b>Dumbo Jump does not collect personal information.</b> There is no
-  account and no sign-in. The game never asks for your name, email, phone
-  number, or location. Nothing is sent to the developer.</p>
+  <p><b>Dumbo Jump never asks for your name, email, phone number, or
+  location.</b> There is no sign-up and no password. However, the
+  leaderboard, 1:1 races, and usage statistics do send the information
+  listed below to a server. Here is exactly what goes where.</p>
+
+  <h2>Anonymous sign-in</h2>
+  <p>The leaderboard and races need to tell devices apart. The app gets a
+  <b>random anonymous ID</b> from Google's Firebase Anonymous
+  Authentication. No name, email, or phone number is attached to it.</p>
+
+  <h2>What is stored on the server</h2>
+  <p>The following is stored on Google Firebase (Cloud Firestore) servers:</p>
+  <ul>
+    <li><b>Nickname</b> — the name you choose for the leaderboard (up to 12
+    characters)</li>
+    <li><b>Endless Climb records</b> — today's height and your all-time best,
+    the character you used, and device type (iOS or Android)</li>
+    <li><b>Race data</b> — the movement trace of a race, finish time,
+    nickname, character, skill total, and whether you left</li>
+    <li>The anonymous ID attached to these records</li>
+  </ul>
+  <p><b>What others can see:</b> anyone can see the nickname, height, and
+  character on the leaderboard. In a race, your opponent sees your nickname,
+  character, skill total, and movement. Your fastest race of the day may
+  appear as a ghost in other players' races.</p>
+  <p>If you never choose a nickname, nothing is posted to the leaderboard.</p>
+
+  <h2>How long it is kept, and how to delete it</h2>
+  <ul>
+    <li>Race rooms and race traces are deleted automatically after about a
+    day, and ghosts after about three days.</li>
+    <li>Leaderboard records stay until deleted.</li>
+    <li>In the game, <b>Leaderboard › Remove my records</b> immediately deletes
+    today's record, your all-time record, and your nickname. Daily records
+    from past days are not removed this way.</li>
+    <li>To delete everything, including past records, email us with your
+    nickname and we will find and delete them.</li>
+  </ul>
 
   <h2>What is stored on your device</h2>
   <p>The game has to remember where you left off. The following is stored
-  <b>only on your device</b> and never leaves it:</p>
+  <b>on your device</b>:</p>
   <ul>
     <li>Stars earned per stage, and which stages are unlocked</li>
     <li>Skill unlock progress</li>
-    <li>Settings (haptics, sound effects, music)</li>
-    <li>Your best Endless Climb score</li>
+    <li>Pearls, items, unlocked characters and your chosen character</li>
+    <li>Daily check-in history</li>
+    <li>Your best Endless Climb score and race wins/losses</li>
+    <li>Your nickname</li>
+    <li>Whether you bought ad removal</li>
+    <li>Settings (haptics, sound effects, music, notifications)</li>
   </ul>
   <p>Deleting the app deletes this data. You can also clear it yourself
-  from the in-game settings.</p>
+  from the in-game settings. Records already on the server stay after the
+  app is deleted, so please remove them as described above.</p>
+
+  <h2>Usage statistics</h2>
+  <p>To improve the game, we use Google Analytics for Firebase. It collects:</p>
+  <ul>
+    <li>Screens viewed</li>
+    <li>Stage start, clear, and fail; boss fights; Endless Climb results;
+    race start and result</li>
+    <li>Shop purchases, in-app purchases (product ID only), revives,
+    character unlocks, check-ins, and interstitial ads shown</li>
+    <li>Your furthest stage and most-used character</li>
+    <li>A random app-instance ID assigned by Firebase</li>
+  </ul>
+  <p>This is not linked to your name or contact details. <b>The advertising
+  identifier (IDFA) is not used</b>, and ad personalization signals are
+  turned off. Data is collected <b>only after the ad consent flow allows
+  it</b>; otherwise nothing is sent.</p>
+  <p>Currently only the iOS version sends statistics. The Android version
+  does not.</p>
+
+  <h2>In-app purchases</h2>
+  <p>Ad removal (Ad Pass) is paid through the Apple App Store or Google
+  Play. Payment details such as card numbers are handled by the store; the
+  developer never receives them. The app only remembers on your device
+  whether you bought it.</p>
 
   <h2>Advertising</h2>
   <p>Dumbo Jump shows ads through Google AdMob. Google may use device
@@ -52,11 +116,13 @@
   </ul>
 
   <h2>Sharing with third parties</h2>
-  <p>Because the developer collects nothing, there is nothing to share or
-  sell. The advertising described above is the whole picture.</p>
-
-  <h2>Analytics</h2>
-  <p>None. The app contains no analytics or usage-tracking library.</p>
+  <p>We do not sell your information. The companies below process it only
+  as needed to run the app:</p>
+  <ul>
+    <li><b>Google</b> — Firebase (anonymous sign-in, server storage, usage
+    statistics) and AdMob (ads)</li>
+    <li><b>Apple and Google</b> — payments through the App Store and Google Play</li>
+  </ul>
 
   <h2>Contact</h2>
   <p>If you have a question about this policy or about your privacy,
