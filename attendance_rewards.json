@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "default": [
+    {"day": 30, "reward": "sea_bunny", "need": 28}
+  ],
+  "months": {
+    "2026-10": [
+      {"day": 15, "reward": "rabbit", "need": 13},
+      {"day": 30, "reward": "fish", "need": 28, "fallback": "pearls:1000"}
+    ]
+  }
+}
