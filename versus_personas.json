@@ -54,6 +54,8 @@
     {"id": "seed_v19", "nickname": "준호99", "platform": "android", "timeZone": "Asia/Seoul", "joined": "2026-10-13", "style": "risky", "startSeconds": 98, "dailyGain": 0.9, "floorSeconds": 79, "activeHours": ["13:00-14:00", "17:00-18:30", "23:00-24:00"]},
     {"id": "seed_v20", "nickname": "bb_tan", "platform": "android", "timeZone": "Asia/Manila", "joined": "2026-10-15", "style": "grower", "startSeconds": 103, "dailyGain": 2.2, "floorSeconds": 69, "activeHours": ["07:00-08:00", "20:00-22:00"]},
     {"id": "seed_v21", "nickname": "토끼풀", "platform": "ios", "timeZone": "Asia/Seoul", "joined": "2026-09-21", "style": "steady", "startSeconds": 86, "dailyGain": 0.5, "floorSeconds": 79, "activeHours": ["08:10-08:50", "12:30-13:10", "21:30-23:30"]},
-    {"id": "seed_v22", "nickname": "leo_gz", "platform": "android", "timeZone": "Europe/Madrid", "joined": "2026-09-29", "style": "steady", "startSeconds": 115, "dailyGain": 0.4, "floorSeconds": 104, "activeHours": ["12:00-12:50", "18:00-19:00", "22:00-23:30"]}
+    {"id": "seed_v22", "nickname": "leo_gz", "platform": "android", "timeZone": "Europe/Madrid", "joined": "2026-09-29", "style": "steady", "startSeconds": 115, "dailyGain": 0.4, "floorSeconds": 104, "activeHours": ["12:00-12:50", "18:00-19:00", "22:00-23:30"]},
+    {"id": "seed_v23", "nickname": "고래밥먹자", "platform": "ios", "timeZone": "Asia/Seoul", "joined": "2026-08-20", "style": "steady", "startSeconds": 88, "dailyGain": 0.3, "floorSeconds": 82, "activeHours": ["07:50-08:30", "12:20-13:00", "22:00-24:00"]},
+    {"id": "seed_v24", "nickname": "kaito_0721", "platform": "android", "timeZone": "Asia/Tokyo", "joined": "2026-09-01", "style": "steady", "startSeconds": 88, "dailyGain": 0.4, "floorSeconds": 78.5, "activeHours": ["12:10-12:50", "19:30-20:30", "23:00-24:00"]}
   ]
 }
