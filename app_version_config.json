@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.2.3+22",
+  "latest_version": "1.3.0+24",
   "min_supported_version": "1.0.0",
-  "update_message": "2구역 보스 산갈치가 나타났어요! 보스 보상 진주 2,000개, 친구와 대전도 들어왔어요.",
-  "update_message_en": "The Zone 2 boss, the Oarfish, has arrived! Bosses now pay 2,000 pearls, plus Race a friend.",
+  "update_message": "3구역 보스 대형 그루퍼와 6구역 냉수 용출(51~60판)이 열렸어요! 보스를 이기면 별 3개도 받아요.",
+  "update_message_en": "The Zone 3 boss, the Giant Grouper, and Zone 6 Cold Seep (stages 51-60) are here! Bosses now give 3 stars.",
   "versus_search_seconds": 8,
   "ios_store_url": "https://apps.apple.com/app/id6812717941",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.nekarose.dumbojump"
