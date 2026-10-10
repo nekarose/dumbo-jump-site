@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.3.0+24",
+  "latest_version": "1.3.1+25",
   "min_supported_version": "1.0.0",
-  "update_message": "3구역 보스 대형 그루퍼와 6구역 냉수 용출(51~60판)이 열렸어요! 보스를 이기면 별 3개도 받아요.",
-  "update_message_en": "The Zone 3 boss, the Giant Grouper, and Zone 6 Cold Seep (stages 51-60) are here! Bosses now give 3 stars.",
+  "update_message": "1,500m 물기둥이 상점에 들어왔어요! 광고를 본 뒤 게임으로 돌아오지 않던 문제도 고쳤어요.",
+  "update_message_en": "The 1,500m Water Column is in the shop! We also fixed the game not returning after an ad.",
   "versus_search_seconds": 8,
   "ios_store_url": "https://apps.apple.com/app/id6812717941",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.nekarose.dumbojump"
