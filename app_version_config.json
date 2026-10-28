@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.4.0+31",
+  "latest_version": "1.5.0+32",
   "min_supported_version": "1.0.0",
-  "update_message": "8구역 해면 정원(71~80판)과 5구역 보스 혹등고래가 들어왔어요!",
-  "update_message_en": "Zone 8: Sponge Garden (Stages 71–80) and the Zone 5 boss, the Humpback Whale, are here!",
+  "update_message": "9구역 원양 심층(81~90판), 6구역 보스 예티게, 주간 도전이 들어왔어요!",
+  "update_message_en": "Zone 9: Midnight Zone (Stages 81–90), the Zone 6 boss Yeti Crab, and Weekly Challenges are here!",
   "versus_search_seconds": 8,
   "ios_store_url": "https://apps.apple.com/app/id6812717941",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.nekarose.dumbojump"
